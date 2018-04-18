@@ -130,7 +130,8 @@ header {
 
   display: flex;
   justify-content: center;
-
+  padding-top: 3rem;
+  padding-bottom: 5rem;
 }
 .support {
 
@@ -139,7 +140,6 @@ header {
   width: 960px;
 
 }
-
 
 
 
@@ -163,4 +163,23 @@ header {
 
 p {
   padding: 1rem 0;
+}
+
+/* Footer Section */
+
+footer {
+  display: flex;
+  justify-content:center;
+
+}
+
+.footer {
+  padding: 0 1rem 0 4rem;
+  margin-bottom: 4rem;
+}
+
+
+footer img {
+  height: 1.5rem;
+
 }
